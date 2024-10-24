@@ -83,7 +83,8 @@ The system uses a JSON file to store details of users and paths to iris images. 
 - Improving the GUI for better usability and feedback.
 - Optimizing the matching process for larger databases.
 
----
+## Screenshot
+
 
 This `README.md` provides an overview of the project, instructions for setting it up, and details about the key features and functionality. Let me know if you need any adjustments or additional details!
 
